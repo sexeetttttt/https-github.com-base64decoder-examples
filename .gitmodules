@@ -1,0 +1,6 @@
+[submodule "Google maps.txt/App Center Log /https://github.com/base64decoder/examples.git"]
+	path = Google maps.txt/App Center Log /https://github.com/base64decoder/examples.git
+	url = https://github.com/base64decoder/examples.git
+[submodule "examples"]
+	path = examples
+	url = https://github.com/base64decoder/examples.git
