@@ -12,18 +12,18 @@
     <meta name="description" content="Schema.org Type: Place - Entities that have a somewhat fixed, physical extension." />
     <link rel="shortcut icon" type="image/png" href="/docs/favicon.ico"/>
     <link rel="stylesheet" type="text/css" href="/docs/schemaorg.css" />
-    <link rel="stylesheet" type="text/css" href="/docs/devnote.css" />
-    <link rel="stylesheet" type="text/css" href="/docs/prettify.css" />
-    <script src="/docs/prettify.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="/docs/schemaorg.js"></script>
-<!-- <script src="/docs/debugwindow/viewconsole.js"></script> -->
-    <script src="/docs/sdotermpage.js"></script>
-    <link rel="stylesheet" type="text/css" href="/docs/sdotermpage.css" />
-    <script src="/docs/pretty-markup/schemarama-parsing.bundle.min.js"></script>
-    <script src="/docs/pretty-markup/layout.js"></script>
-    <link rel="stylesheet" type="text/css" href="/docs/pretty-markup/style.css" />
-    <script src="/docs/clipboard/clipboard.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="[/docs/devnote.css]()" />
+    <link rel="stylesheet" type="text/css" href="[/docs/prettify.css]()" />
+    <script src="[/docs/prettify.js]()"></script>
+    <script src="[Title](https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js)"></script>
+    <script src="[/docs/schemaorg.js]()"></script>
+<!-- <script src="[/docs/debugwindow/viewconsole.js]()"></script> -->
+    <script src="[/docs/sdotermpage.js]()"></script>
+    <link rel="stylesheet" type="text/css" href="[/docs/sdotermpage.css]()" />
+    <script src="[/docs/pretty-markup/schemarama-parsing.bundle.min.js]()"></script>
+    <script src="[/docs/pretty-markup/layout.js]()"></script>
+    <link rel="stylesheet" type="text/css" href="[/docs/pretty-markup/style.css]()" />
+    <script src="[/docs/clipboard/clipboard.min.js]()"></script>
 
 <link rel="canonical" href="https://schema.org/Place" />
    
